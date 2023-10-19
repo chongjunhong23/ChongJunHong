@@ -1,4 +1,3 @@
-#Hi there
 <h1 align="center">Hi 👋, I'm Chong Jun Hong</h1>
 <h3 align="center">A passionate frontend developer from Malaysia</h3>
 
